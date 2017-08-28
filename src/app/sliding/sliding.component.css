@@ -1,0 +1,45 @@
+#carousel-example {
+    margin:20px;
+
+}
+.slide-custom {
+    min-height:200px;
+    padding:20px;
+    line-height:30px;
+}
+
+.user-img {
+border: 2px solid #000;
+overflow: hidden;
+border-radius: 50%;
+display: inline-block;
+}
+
+.img-u {
+   max-height: 90px;
+max-width: 90px;
+}
+
+.c-set {
+    font-style: italic;
+font-size: 20px;
+padding: 15px;
+}
+#testimonial { 
+  
+    
+background: url(../sliding/home.jpg) no-repeat 50% 50%;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width: 100%;
+display: block;
+height: auto;
+   min-height:200px;
+    color:#fff;
+}
+section{
+    margin-top: 50px;
+}

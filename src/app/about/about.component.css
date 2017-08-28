@@ -1,0 +1,30 @@
+.panel-title-adjust{
+    font-size: 20px;
+    padding: 5px;
+    }
+    
+        .panel-title-adjust a:hover {
+            text-decoration:none;
+        }
+    .panel-title-adjust i {
+            padding-right:5px;
+        }
+        section {
+            padding-top: 100px;
+            padding-bottom: 30px;
+        }
+        .panel-title > a {
+            color: inherit;
+        }
+        
+        a {
+            color: #428bca;
+            text-decoration: none;
+        }
+       
+        a {
+            background: transparent;
+        }
+        .fa-plus:before {
+            content: "\f067";
+        }
